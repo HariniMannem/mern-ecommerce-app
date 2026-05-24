@@ -8,7 +8,7 @@ function Register() {
 
   const registerUser = async () => {
     try {
-      await axios.post("http://localhost:4000/api/auth/register", {
+      await axios.post("https://mern-ecommerce-app-n7qj.onrender.com/api/auth/register", {
         name,
         email,
         password
