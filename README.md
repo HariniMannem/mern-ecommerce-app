@@ -46,6 +46,18 @@ cd frontend
 npm install
 npm start
 ```
+## Live Demo
+
+Frontend:
+]## Live Demo
+
+Frontend:
+https://mern-ecommerce-app-git-main-harinimannems-projects.vercel.app/
+
+Backend:
+https://mern-ecommerce-app-n7qj.onrender.com
+
+
 
 ## Author
 
